@@ -9,10 +9,10 @@ To use this boilerplate in your project, simply clone the repository and install
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/perpetualcuriosity/flutter-boilerplate.git
 
 # Navigate to the project directory
-cd <your-project-name>
+cd flutter-boilerplate
 
 # Install dependencies
 flutter pub get
